@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cluodnine/static/css/main.d01eec5b.css",
+    "main.js": "/cluodnine/static/js/main.9e151319.js",
+    "static/js/787.7d2c2056.chunk.js": "/cluodnine/static/js/787.7d2c2056.chunk.js",
+    "static/media/background_photo@3x.png": "/cluodnine/static/media/background_photo@3x.9bb2a1d7849323e1f470.png",
+    "static/media/OpenSans-Regular.ttf": "/cluodnine/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/FontBureau-MillerBannerLight.otf": "/cluodnine/static/media/FontBureau-MillerBannerLight.8d8fed5a243eba43b679.otf",
+    "static/media/Helvetica-Neue.ttf": "/cluodnine/static/media/Helvetica-Neue.50a6cd509ab1a89a5956.ttf",
+    "index.html": "/cluodnine/index.html",
+    "main.d01eec5b.css.map": "/cluodnine/static/css/main.d01eec5b.css.map",
+    "main.9e151319.js.map": "/cluodnine/static/js/main.9e151319.js.map",
+    "787.7d2c2056.chunk.js.map": "/cluodnine/static/js/787.7d2c2056.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d01eec5b.css",
+    "static/js/main.9e151319.js"
+  ]
+}
