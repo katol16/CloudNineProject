@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/CloudNineProject/static/css/main.a55fa9ef.css",
-    "main.js": "/CloudNineProject/static/js/main.711d0a32.js",
-    "static/js/787.7d2c2056.chunk.js": "/CloudNineProject/static/js/787.7d2c2056.chunk.js",
+    "main.js": "/CloudNineProject/static/js/main.d7528355.js",
+    "static/js/787.b602130b.chunk.js": "/CloudNineProject/static/js/787.b602130b.chunk.js",
     "static/media/background_photo@3x.png": "/CloudNineProject/static/media/background_photo@3x.9bb2a1d7849323e1f470.png",
     "static/media/OpenSans-Regular.ttf": "/CloudNineProject/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
     "static/media/FontBureau-MillerBannerLight.otf": "/CloudNineProject/static/media/FontBureau-MillerBannerLight.8d8fed5a243eba43b679.otf",
     "static/media/Helvetica-Neue.ttf": "/CloudNineProject/static/media/Helvetica-Neue.50a6cd509ab1a89a5956.ttf",
     "index.html": "/CloudNineProject/index.html",
     "main.a55fa9ef.css.map": "/CloudNineProject/static/css/main.a55fa9ef.css.map",
-    "main.711d0a32.js.map": "/CloudNineProject/static/js/main.711d0a32.js.map",
-    "787.7d2c2056.chunk.js.map": "/CloudNineProject/static/js/787.7d2c2056.chunk.js.map"
+    "main.d7528355.js.map": "/CloudNineProject/static/js/main.d7528355.js.map",
+    "787.b602130b.chunk.js.map": "/CloudNineProject/static/js/787.b602130b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a55fa9ef.css",
-    "static/js/main.711d0a32.js"
+    "static/js/main.d7528355.js"
   ]
 }
