@@ -7,8 +7,8 @@ function App() {
   return (
   <Router>
     <Routes>
-      <Route path="/cloud-nine-project" element={<SalonsList />} />
-      <Route path="/cloud-nine-project/salon/:id" element={<SalonDetails />} />
+      <Route path="/CloudNineProject" element={<SalonsList />} />
+      <Route path="/CloudNineProject/salon/:id" element={<SalonDetails />} />
     </Routes>
   </Router>
   );
