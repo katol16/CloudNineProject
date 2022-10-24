@@ -9,7 +9,7 @@ const SalonItem = ({salonData, currency}) => {
   return (
     <>
       {salonData.map(({address, duration, salonId, price, rating, numberOfRating, salonName, timeAvailability}) =>
-        <Link key={salonId}  to={`/salon/${salonId}`} className="salonItem__container">
+        <Link key={salonId}  to={`/CloudNineProject/salon/${salonId}`} className="salonItem__container">
           <div className="salonItem">
             <div className="salonItem-hour">
               <p>{timeAvailability}</p>
